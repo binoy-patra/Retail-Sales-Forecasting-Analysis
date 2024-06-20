@@ -1,9 +1,8 @@
 # Retail-Sales-Forecasting-Analysis-With Walmart 
-# Retail-Sales-Forecasting-Analysis-With Walmart 
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Purposes Of The Project] (#purposes-of-the-project)
+- [Purposes Of The Project](#purposes-of-the-project)
 - [Dataset Overview](#dataset_overview)
 - [Analysis Overview](#analysis-overview)
 - [Approach Used](#approach-used)
@@ -15,9 +14,9 @@
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
 
+  
+## Introduction:
 
-
-##Introduction:
 In the contemporary retail landscape, data-driven decision-making is pivotal for maintaining competitive advantage. This analysis of Walmart's sales data employs Structured Query Language (SQL) to unearth key insights that can inform strategic decisions. By dissecting various dimensions such as customer types, product lines, and sales performance across different times and days, this report aims to provide a comprehensive understanding of consumer behavior and sales dynamics.
 
 ## Purposes Of The Project
@@ -26,7 +25,9 @@ The major aim of thie project is to gain insight into the sales data of Walmart 
 
 ## Dataset Overview
 
-The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting). This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
+The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).     
+This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw.    
+The data contains 17 columns and 1000 rows:
 
 | Column                  | Description                             | Data Type      |
 | :---------------------- | :-------------------------------------- | :------------- |
@@ -51,7 +52,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 ### Analysis Overview
 
 1. Product Analysis
-
+   
 > Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
 
 2. Sales Analysis
@@ -160,32 +161,32 @@ $ \text{Gross Margin Percentage} = \frac{\text{gross income}}{\text{total revenu
 
 The analysis of Walmart's sales data offers several key insights:
 
-1. Geographic and Branch Insights:
+1. **Geographic and Branch Insights:**
    - There are three cities covered: Yangon, Naypyitaw, and Mandalay.
    - Branch A is in Yangon, Branch B is in Mandalay, and Branch C is in Naypyitaw.
    - Naypyitaw (Branch C) generates the highest revenue.
 
-2. Revenue and Costs:
+2. **Revenue and Costs:**
    - The total revenue across all branches is $320,886.39.
    - The total Cost of Goods Sold (CoG) is $305,606.09.
 
-3. Product Analysis:
+3. **Product Analysis:**
    - There are six unique product lines, with "Electronic accessories" being the top seller by quantity.
    - "Food and beverages" is the product line with the highest revenue.
    - Cash is the most common payment method.
    - January recorded the highest revenue and CoG among the months analyzed.
 
-4. Sales Analysis:
+4. **Sales Analysis:**
    - The evening time sees the highest sales, followed by the afternoon and morning.
    - Members contribute slightly more to revenue than Normal customers.
    - Naypyitaw has the highest average tax percentage.
 
-5. Customer Insights:
+5. **Customer Insights:**
    - The customer base is evenly split between Normal and Member types.
    - Gender distribution is almost equal, with slightly more male customers.
    - Afternoon is the time of day when customers give the highest ratings, with Monday being the day with the best average ratings.
 
-6. Product Line Performance:
+6. **Product Line Performance:**
    - The top three product lines by revenue are "Food and beverages," "Fashion accessories," and "Sports and travel."
    - "Health and beauty" shows the highest VAT, followed by "Sports and travel."
 
@@ -200,41 +201,41 @@ These insights can help Walmart optimize its operations, tailor marketing strate
 
 Based on the analysis of Walmart's sales data, the following recommendations are proposed to optimize operations, enhance customer satisfaction, and boost sales:
 
-1. Optimize Inventory for High-Performing Product Lines:
+1. **Optimize Inventory for High-Performing Product Lines:**
    - Electronic accessories and Food and beverages are the top-performing product lines. Ensure these items are always well-stocked to meet demand.
    - Focus marketing and promotional efforts on these categories to capitalize on their popularity.
 
-2. Enhance Marketing for Underperforming Categories:
+2. **Enhance Marketing for Underperforming Categories:**
    - Fashion accessories and Health and beauty have lower sales compared to other categories. Develop targeted marketing campaigns to boost sales in these areas.
    - Consider customer feedback and trends to adjust the product mix within these categories.
 
-3. Leverage High Revenue Periods:
+3. **Leverage High Revenue Periods:**
    - January has been identified as the month with the highest revenue. Plan special promotions and sales events during this period to maximize sales.
    - Analyze reasons behind the January peak and apply similar strategies to other months.
 
-4. Tailor Customer Experience:
+4. **Tailor Customer Experience:**
    - Evening is the peak time for sales. Ensure sufficient staffing and inventory during these hours to provide excellent customer service.
    - Enhance the shopping experience during evenings with in-store events, discounts, or special offers.
 
-5. Focus on High Revenue Branches:
+5. **Focus on High Revenue Branches:**
    - Naypyitaw (Branch C) generates the highest revenue. Consider using successful strategies from this branch as a model for others.
    - Conduct a detailed analysis of customer preferences and behaviors in Naypyitaw to replicate success in other cities.
 
-6. Improve Payment Method Options:
+6. **Improve Payment Method Options:**
    - Cash is the most common payment method, but a significant number of customers use E-wallets and credit cards. Ensure all payment systems are quick, secure, and user-friendly to enhance customer convenience.
 
-7. Enhance Customer Loyalty Programs:
+7. **Enhance Customer Loyalty Programs:**
    - Members contribute slightly more to revenue than normal customers. Enhance loyalty programs to encourage more customers to become members.
    - Offer exclusive discounts, early access to sales, and special promotions to members to increase retention and attract new sign-ups.
 
-8. Utilize Customer Feedback for Improvements:
+8. **Utilize Customer Feedback for Improvements:**
    - Afternoon has the highest customer ratings, followed by the morning and evening. Investigate the reasons for higher satisfaction during these periods and apply similar strategies to other times.
    - Regularly collect and analyze customer feedback to identify areas for improvement and implement changes promptly.
 
-9. Capitalize on High-Rating Days:
+9. **Capitalize on High-Rating Days:**
    - Monday has the best average ratings. Consider extending successful Monday strategies to other days to improve overall customer satisfaction.
 
-10. Monitor and Adjust VAT Strategies:
+10. **Monitor and Adjust VAT Strategies:**
     - Naypyitaw has the highest average tax percentage. Monitor the impact of VAT on sales and adjust pricing strategies if necessary to maintain competitiveness without sacrificing profitability.
 
 By implementing these recommendations, Walmart can optimize its operations, improve customer satisfaction, and drive higher sales across its branches.
