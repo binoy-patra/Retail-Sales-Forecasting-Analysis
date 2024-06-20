@@ -13,6 +13,7 @@
 - [File Descriptions](#file-descriptions)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
+- [Contact Me](#contact-me)
 
   
 ## Introduction:
@@ -253,3 +254,9 @@ By implementing these recommendations, Walmart can optimize its operations, impr
 ## Contributing
 
 Contributions to improve the analysis scripts, add new features, or fix issues are welcome. Please fork the repository, make your changes, and submit a pull request.
+
+## Contact Me
+
+- **LinkedIn**: [Binoy Patra](https://www.linkedin.com/in/binoy-patra-b9277b1b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- **GitHub**: [Binoy Patra](https://github.com/binoy-patra)
+- **Gmail**: binoypatra20@gmail.com
