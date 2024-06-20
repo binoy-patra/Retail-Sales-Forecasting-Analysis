@@ -257,6 +257,6 @@ Contributions to improve the analysis scripts, add new features, or fix issues a
 
 ## Contact Me
 
-- **LinkedIn**: [Binoy Patra](#https://www.linkedin.com/in/binoy-patra-b9277b1b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- **GitHub**: [Binoy Patra](#https://github.com/binoy-patra)
+- **LinkedIn**: [Binoy Patra](https://www.linkedin.com/in/binoy-patra-b9277b1b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **GitHub**: [Binoy Patra](https://github.com/binoy-patra)
 - **Gmail**: binoypatra20@gmail.com
